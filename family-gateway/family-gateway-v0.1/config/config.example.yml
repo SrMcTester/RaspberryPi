@@ -1,0 +1,15 @@
+family:
+  hostname: family-gateway
+admin:
+  username: piadmin
+  password: ChangeMe
+network:
+  type: wifi
+  wifi:
+    ssid: YOUR_WIFI
+    password: YOUR_PASSWORD
+features:
+  gui: true
+  pihole: true
+  grafana: true
+  unbound: true
